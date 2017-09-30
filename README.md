@@ -1,4 +1,6 @@
-"# Pre-Made-Discord.js-Bot" 
-"# Pre-Made-Discord.js-Bot" 
-"# Pre-Made-Discord.js-Bot" 
-"# Pre-Made-Discord.js-Bot" 
+have node.js before using this
+
+
+Now, use this ecks dee
+
+get everything else too.
